@@ -1,1 +1,1 @@
-https://github.com/example/repo
+https://github.com/Mamesbo/repo
